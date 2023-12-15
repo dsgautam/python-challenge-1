@@ -1,5 +1,5 @@
 # **Assignment: Module-2 Challenge**
-## **Github Repository: Python-Challenge-1**
+## **Github Repository: python-challenge-1**
 
 ### 1. **Solution Approach**
 The menu items with categories of food and their prices are provided in the form of dictionary items. The requirement is to write a python code to:
@@ -7,7 +7,7 @@ The menu items with categories of food and their prices are provided in the form
 a. Accept customer's menu order of food and drinks selection  
 b. Identify the price of each item selected and quanity desired  
 c. Calculate the total price of the order  
-d. Print the order 
+d. Print the order  
 e. Provide appropriate guidance or error messages as an aid to the customer in the menu selection  
 
 ### 2. **Testing** 
